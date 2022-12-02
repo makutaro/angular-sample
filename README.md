@@ -1,5 +1,5 @@
 # angularコマンド
-ng new angular-app
+ng new angular-sample
 ng s --host 0.0.0.0 --poll 1000
 
 # git コマンドメモ
