@@ -12,3 +12,5 @@ git branch -m main
 4. docker exec -it angular-sample_node ng s --host 0.0.0.0 --poll 1000
 
 
+#
+Remove-Item (dir)
